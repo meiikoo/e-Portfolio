@@ -1,0 +1,13 @@
+# Jekyll build artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby environment (if using bundler)
+.bundle/
+vendor/
+
+# System files
+.DS_Store
+Thumbs.db

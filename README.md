@@ -46,7 +46,7 @@ Beyond academics, I’ve continued to expand my skill set through self-study and
 
 ## 📂 Career/Academic Artifacts
 
-- 💻 [Project – Code Sample](artifact1.html)
+- 💻 [Project – Code Sample](artifact1.java)
 - 📄 [Letter of Recommendation](artifact2.pdf)
 
 ---

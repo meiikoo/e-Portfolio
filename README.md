@@ -1,6 +1,6 @@
 # 👋 Welcome to My E-Portfolio
 
-Hi, I'm **[Your Name]**, and this is my professional digital portfolio.  
+Hi, I'm Hao Wang, and this is my professional digital portfolio.  
 Use the sections below to explore my background, achievements, and career goals.
 
 ---

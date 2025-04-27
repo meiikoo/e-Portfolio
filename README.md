@@ -34,7 +34,7 @@ Beyond academics, I’ve continued to expand my skill set through self-study and
 
 ## 💭 Professional Philosophy Statement
 
-> "I believe in lifelong learning, meaningful collaboration, and making a positive impact."
+> "I believe in lifelong learning, meaningful collaboration, and making a positive impact."  <br>
 [Download Professional Philosophy Statement (PDF)](Personal-Philosophy-Statement.pdf)
 ---
 

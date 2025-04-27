@@ -1,7 +1,7 @@
 # 👋 Welcome to My E-Portfolio
 
 Hi, I'm Hao Wang, and this is my professional digital portfolio.  
-Use the sections below to explore my background, achievements, and career goals.
+Please use the sections below to explore my background, achievements, and career goals.
 
 ---
 

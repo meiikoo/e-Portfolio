@@ -1,11 +1,11 @@
 # e-portfolio
 
 ## projects
-###project1
+project1
 - Description
 - Links
 
-###project2
+project2
 - Description
 - Links
 

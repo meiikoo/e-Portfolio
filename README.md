@@ -15,7 +15,7 @@ Beyond academics, I’ve continued to expand my skill set through self-study and
 
 ## 📨 Cover Letter
 
-[Click here to view my general cover letter](general cover letter.pdf)
+[Click here to view my general cover letter](general-cover-letter.pdf)
 
 ---
 

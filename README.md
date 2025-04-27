@@ -25,22 +25,18 @@ Beyond academics, I’ve continued to expand my skill set through self-study and
 
 ---
 
-## 🏆 Goals, Achievements, & Community Service
+## 🏆 Goal & Achievements
 
-Here are some highlights from my academic and personal achievements:
-
-- 🎓 Graduated with [degree or certification]
+- 🎓 Graduate with bachelor degree of University of Pittsburgh
 - 🥇 Winner of [award]
-- 🤝 Volunteered with [organization]
-
-![Award Photo](award.jpg)
+- 🤝 Pursue a 
 
 ---
 
 ## 💭 Professional Philosophy Statement
 
 > "I believe in lifelong learning, meaningful collaboration, and making a positive impact."
-
+[Download Professional Philosophy Statement (PDF)](Personal-Philosophy-Statement.pdf)
 ---
 
 ## 📚 Professional Bibliography
@@ -51,11 +47,9 @@ Here are some highlights from my academic and personal achievements:
 
 ## 📂 Career/Academic Artifacts
 
-- 🧾 [Project 1 – Research Paper](artifact1.pdf)
-- 💻 [Project 2 – Code Sample](artifact2.html)
-- 📄 [Letter of Recommendation](artifact3.pdf)
-- 📸 [Event Photo](event.jpg)
+- 💻 [Project – Code Sample](artifact1.html)
+- 📄 [Letter of Recommendation](artifact2.pdf)
 
 ---
 
-_Thanks for visiting! Connect with me on [LinkedIn](https://linkedin.com/in/yourusername)._
+_Thanks for visiting!_

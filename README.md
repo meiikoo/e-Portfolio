@@ -27,7 +27,7 @@ Beyond academics, I’ve continued to expand my skill set through self-study and
 
 ## 🏆 Goal & Achievements
 
-- 🎓 Graduate with bachelor's degree from the University of Pittsburgh
+- 🎓 Graduate with a bachelor's degree from the University of Pittsburgh
 - 🤝 Pursue a professional career in software engineering
 
 ---
